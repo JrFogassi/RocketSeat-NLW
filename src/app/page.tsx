@@ -1,7 +1,10 @@
+import { Button } from "@/components/Button";
+
 export default function Home() {
   return (
     <main>
-      <div>Hello world!</div>
+      <div>Morgana, i love you!</div>
+      <Button />
     </main>
   );
 }
